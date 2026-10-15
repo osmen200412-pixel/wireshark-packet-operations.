@@ -84,4 +84,3 @@ Learning Platform: TryHackMe
 Path: SOC Level 1 → Network Traffic Analysis
 Lab: Wireshark: Packet Operations
 
-#CyberSecurity #Wireshark #TryHackMe #SOCAnalyst #NetworkSecurity #BlueTeam #PacketAnalysis
